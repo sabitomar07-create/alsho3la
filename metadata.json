@@ -1,0 +1,7 @@
+{
+  "name": "HydroCore Pipeline Dynamics",
+  "description": "Engineered industrial pipeline fittings, municipal water infrastructure solutions, and flow control systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
